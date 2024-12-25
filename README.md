@@ -1,5 +1,5 @@
 # Loan-Approval-Prediction
-Implemented a deep learning model with Tensorflow library using Keras to predict whether a borrower who has applied for a loan will be able to payback the loan amount in a specified period of time and thus helps the bank in making decision whether the bank can grant the loan or reject the loan application. .
+Deep learning model on Tensorflow library using Keras to predict whether a borrower who has applied for a loan will be able to payback the loan amount in a specified period of time and thus help the bank in making decision whether the loan application can be approved or rejected.
 
 ** The Project is divided into following components :
   1. **Exploratory Data Analysis** to understand the data and relation between different attributes.
